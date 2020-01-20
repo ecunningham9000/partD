@@ -5,6 +5,7 @@ public class partD {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hi, my Name is Ethan");
+		System.out.println("\nMy favourite colour is Blue");
 	}
 
 }
